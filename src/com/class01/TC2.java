@@ -5,6 +5,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class TC2 {
 	
+	//TC2 updated
+	
 	//TC 2: Syntax Page URL Verification: 
 //	Open chrome browser
 //	Navigate to “https://www.syntaxtechs.com/”
